@@ -1,7 +1,7 @@
 # MENTAL-HEALTH-RESOURCE-HUB
 # 🧠 Mental Health Resource Hub
 
-[🏠 Home](#) | [📝 Worksheets](./worksheets) | [📚 Guides](./psychoeducation) | [🚨 Emergency Contacts](./resources)
+[🏠 Home](#) | [📝 Worksheets](./worksheets) | [📚 Guides](./psychoeducation) | [🚨 local directory](./resources)
 
 ---
 
