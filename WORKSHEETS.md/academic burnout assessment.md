@@ -58,5 +58,5 @@ What factors are contributing most to your academic pressure right now?
 If academic stress is significantly impacting your daily functioning, health, or sleep, please consider reaching out to campus counseling services or a trusted peer mentor. 
 
 * **Repository Home:** [Return to Main Resource Hub](../README.md)
-* **Daily Check-In:** [Open Daily Check-In Form](check-in.md)
+* **Daily Check-In:** https://github.com/mentalhealthrep69-gif/MENTAL-HEALTH-RESOURCE-HUB/blob/8a489a0ede4d16488187199211ec691f05dd706f/WORKSHEETS.md/check%20in.md
 *
