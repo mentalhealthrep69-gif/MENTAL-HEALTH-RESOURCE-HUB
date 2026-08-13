@@ -1,5 +1,5 @@
 # 🧠 01: Mental Health Basics
-> **Project:** Breaking the Silence | Student Well-being Initiative  
+> **Project:** Breaking the Silence | promoting student mental health and psychological well-being 
 > **Goal:** Understand what mental health is, learn the difference between mental health and mental illness, and bust common myths.
 
 ---
