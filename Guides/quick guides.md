@@ -1,6 +1,6 @@
 # 📚 Quick Guides Index | Breaking the Silence
-> **Project:** Breaking the Silence | Student Well-being & Mental Health Initiative  
-> **Purpose:** Rapid-reference, actionable mental health resources designed for students navigating university life.
+> **Project:** Breaking the Silence | promoting student mental health and psychological well-being  
+> **Purpose:** quick-reference, actionable mental health resources designed for students navigating university life.
 
 ---
 
@@ -17,14 +17,14 @@
 ## 1. I'm Overwhelmed — What Do I Do?
 
 ### 🟢 WHAT MIGHT BE HAPPENING
-Overwhelm occurs when the brain perceives that incoming demands (assignments, exams, personal life, finances) exceed your available time and mental capacity. It often causes freeze responses, brain fog, and intense physical tension.
+Feeling overwhelmed can happen when the demands of university life (assignments, finances, exams, personal challenges) feel more than you can manage to bear.
 
 ### 🟡 WHAT YOU CAN DO RIGHT NOW
 * **Stop Everything for 5 Minutes:** Pause all study materials, close laptop tabs, and step away from your desk.
 * **Do a Brain Dump:** Get a blank piece of paper and write down *every single thing* stressing you out. Getting it out of your head reduces mental load.
-* **Pick ONE Micro-Task:** Select the absolute smallest task on your list (e.g., reading one paragraph, sending one email) and do only that.
+* **Pick ONE small Task:** Select the absolute smallest task on your list (e.g., reading one paragraph, sending one email) and do only that.
 * **Change Your Physical Environment:** Step outside, stretch, or drink a glass of cold water to ground your nervous system.
-* **Set a Hard Stop Time:** Decide when you will stop working today so your brain knows rest is coming.
+* **Set a time to Stop :** Decide when you will stop working today so your brain knows rest is coming.
 
 ### 🔵 WHEN TO TALK TO SOMEONE
 * You have been feeling constantly overwhelmed for more than 2 weeks.
@@ -38,7 +38,7 @@ Overwhelm occurs when the brain perceives that incoming demands (assignments, ex
 ### 🟣 WHERE TO GET HELP
 * **University Services:** University Guidance & Counselling Office | Student Welfare Department
 * **Health Services:** Campus Health Center / Medical Clinic
-* **Peer Support:** Breaking the Silence Peer Advocates Desk
+* **Peer Support:** Breaking the Silence Peer Advocates 
 
 ### 💬 REMEMBER
 > You do not have to finish the entire semester in one afternoon. Focus on the next 15 minutes.
@@ -48,14 +48,14 @@ Overwhelm occurs when the brain perceives that incoming demands (assignments, ex
 ## 2. I'm Feeling Anxious — What Can I Do Right Now?
 
 ### 🟢 WHAT MIGHT BE HAPPENING
-Anxiety is your body's natural "fight-or-flight" stress system activating, often misinterpreting mental pressure (like exams or social stress) as physical danger. It causes a racing heart, shallow breathing, and looping thoughts.
+Anxiety is your body's natural "fight-or-flight" stress system . It can be activated by mental pressure such as exams, social stress, or uncertainty, even when you are not in physical danger.
 
 ### 🟡 WHAT YOU CAN DO RIGHT NOW
 * **Practice the 5-4-3-2-1 Grounding Technique:** Name 5 things you can see, 4 you can feel, 3 you can hear, 2 you can smell, and 1 you can taste.
 * **Do 3 Physiological Sighs:** Take two quick inhales through your nose, then one long, slow exhale through your mouth.
-* **Temperature Shock:** Splash cold water on your face or hold an ice cube in your hand to reset your nervous system.
-* **Unclench Your Body:** Consciously drop your shoulders, relax your jaw, and uncurl your toes.
-* **Limit Caffeine:** Avoid coffee, tea, or energy drinks until your nervous system settles down.
+* **Use a cool sensation:** Splash cold water on your face or hold something cool to help bring your attention back to present.
+* **Relax Your Body:** Consciously drop your shoulders, relax your jaw, and relax your toes.
+* **Limit Caffeine:** Avoid coffee, tea, or energy drinks until you calm down.
 
 ### 🔵 WHEN TO TALK TO SOMEONE
 * Anxiety is preventing you from sitting exams, doing presentations, or attending classes.
@@ -63,7 +63,7 @@ Anxiety is your body's natural "fight-or-flight" stress system activating, often
 * You are constantly worrying about things far in the future.
 
 ### 🔴 WHEN IT'S AN EMERGENCY
-* You experience severe chest pain, hyperventilation, or disorientation that does not resolve after grounding.
+* You experience severe chest pain, hyperventilation, or disorientation that does not resolve.
 * Anxiety leads to overwhelming thoughts of self-harm.
 
 ### 🟣 WHERE TO GET HELP
@@ -72,14 +72,14 @@ Anxiety is your body's natural "fight-or-flight" stress system activating, often
 * **Peer Support:** Student Well-being Campus Reps
 
 ### 💬 REMEMBER
-> Anxiety is a feeling, not a fact. Your heart is beating fast to protect you, not to harm you.
+> Anxiety can feel like a warning, but a feeling of danger doesn't always mean you are in danger. Your heart is beating fast to protect you, not to harm you.
 
 ---
 
 ## 3. I'm Feeling Lonely
 
 ### 🟢 WHAT MIGHT BE HAPPENING
-Loneliness isn't just about being physically alone; it’s a deep feeling of disconnect or not belonging. Transitioning through university routines often disrupts social networks, making loneliness extremely common among students.
+Starting or adjusting to university can change your usual social connections, making feelings of loneliness common among students. Also feeling lonely doesn't mean you are unlovable or alone in this experience.
 
 ### 🟡 WHAT YOU CAN DO RIGHT NOW
 * **Reach Out to One Person:** Send a simple text to a friend or family member ("Thinking of you, how are you?").
@@ -110,12 +110,12 @@ Loneliness isn't just about being physically alone; it’s a deep feeling of dis
 ## 4. I'm Struggling Academically
 
 ### 🟢 WHAT MIGHT BE HAPPENING
-Academic struggles are rarely caused by a lack of intelligence. They are usually symptoms of unmanaged stress, burnout, inefficient study strategies, or personal life pressures disrupting concentration.
+Academic struggles do not necessarily mean you lack, burnout, difficulty concentrating, ineffective study strategies, or personal life pressures can all affect academic performance.
 
 ### 🟡 WHAT YOU CAN DO RIGHT NOW
-* **Conduct a Course Audit:** List all current course requirements, deadlines, and current marks to assess where you actually stand.
-* **Talk to Your Course Lecturer or TA:** Visit them during office hours or send an email explaining your difficulty early on.
-* **Use the Pomodoro Technique:** Work for 25 focused minutes, then take a mandatory 5-minute break.
+* **Review your courses:** List assignments, deadlines, CATS and current performance to assess where you actually stand.
+* **Talk to Your Course Lecturer :** Visit them during office hours or send an email explaining your difficulty early on.
+* **Take mandatory breaks:** Work for 25 focused minutes, then take a mandatory 5-minute break.
 * **Find a Study Partner:** Pair up with a classmate for mutual accountability and resource sharing.
 * **Aim for Progress, Not Perfection:** Completing an assignment imperfectly is far better than not submitting it at all.
 
@@ -133,14 +133,14 @@ Academic struggles are rarely caused by a lack of intelligence. They are usually
 * **Peer Support:** Student Mentorship & Peer Tutoring Programs
 
 ### 💬 REMEMBER
-> Your grades reflect your current circumstances and study methods, not your intelligence or value as a person.
+> Your grades reflect your current academic performance,they do not define your intelligence or value as a person.
 
 ---
 
 ## 5. I'm Worried About My Friend
 
 ### 🟢 WHAT MIGHT BE HAPPENING
-Friends are often the first to spot when someone is struggling. Changes in mood, withdrawing from social groups, missing lectures, or sudden shifts in personal habits can be signs that a friend needs support.
+Friends are often the first to spot when someone is struggling.
 
 ### 🟡 WHAT YOU CAN DO RIGHT NOW
 * **Ask Openly in Private:** Choose a quiet moment and say, *"I’ve noticed you’ve been a bit quiet lately. How are you really doing?"*
@@ -150,12 +150,12 @@ Friends are often the first to spot when someone is struggling. Changes in mood,
 * **Encourage Support:** Gently ask, *"Have you considered speaking with campus counseling or a trusted lecturer about this?"*
 
 ### 🔵 WHEN TO TALK TO SOMEONE
-* Your friend pulls away completely, stops responding to messages, or neglects basic personal hygiene.
+* Your friend pulls away completely, stopped responding to messages, or neglects basic personal care.
 * Supporting them is beginning to severely impact your own emotional well-being.
-* They express feeling hopeless or express subtle thoughts about giving up.
+* They express feeling hopeless or express  thoughts about giving up.
 
 ### 🔴 WHEN IT'S AN EMERGENCY
-* Your friend explicitly states they want to die, hurt themselves, or end their life.
+* Your friend explicitly states they are considering suicide, hurt themselves, or end their life.
 * **Do not leave them alone.** Contact campus security, the counseling department, or emergency services immediately.
 
 ### 🟣 WHERE TO GET HELP
@@ -171,7 +171,7 @@ Friends are often the first to spot when someone is struggling. Changes in mood,
 ## 6. I Think I Need Professional Help
 
 ### 🟢 WHAT MIGHT BE HAPPENING
-Seeking professional mental health support is a proactive health choice, no different from seeing a medical doctor for physical illness. Therapists and counselors provide structured tools to help you process emotions and navigate challenges safely.
+Seeking professional mental health support is a healthy step, just like seeking medical care when unwell. Therapists and counselors provide structured tools to help you process emotions and navigate challenges safely.
 
 ### 🟡 WHAT YOU CAN DO RIGHT NOW
 * **Write Down What You're Feeling:** Jot down your symptoms, emotional patterns, and sleep habits over the last few weeks to share during a consultation.
