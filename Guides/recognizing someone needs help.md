@@ -1,5 +1,5 @@
 # 🚨 Recognizing When Someone Needs Help
-> **Project:** Breaking the Silence | Student Well-being Initiative  
+> **Project:** Breaking the Silence | promoting student mental health and psychological well-being.  
 > **Goal:** Learn how to spot emotional distress, listen with care, and connect a friend to professional support safely.
 
 ---
