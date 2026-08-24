@@ -14,7 +14,7 @@ If you prefer to reflect in your journal or offline, you can walk through the qu
 * **Mental Fatigue:** On a scale of 1 to 5 (1 = Refreshed, 5 = Exhausted), how mentally drained do you feel at the start of your study day?
 * **Workload Balance:** On a scale of 1 to 5 (1 = Overwhelming, 5 = Manageable), how does your current academic load feel?
 * **Motivation:** How engaged do you feel with your coursework this week?
-* **Emotional Distance:** How often do you feel detached or cynical about your academic goals? *(Never / Rarely / Sometimes / Frequently / Almost Always)*
+* **Emotional Distance:** How often do you feel detached  about your academic goals? *(Never / Rarely / Sometimes / Frequently / Almost Always)*
 
 ---
 
