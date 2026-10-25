@@ -19,9 +19,9 @@ Explore the core sections of the hub using the directory links below:
 | Section | Description | Quick Link |
 | :--- | :--- | :--- |
 | **01: Mental health basics** | Core educational concepts, self-care fundamentals, and psychological well-being overviews. | [View Section](./01_Mental_health_basics/01_README.md) |
-| **02: Guides** | Step-by-step practical guides, coping toolkits, and supportive action steps. | [View Section](./02_Guides/02_Readme.md) |
-| **03: Worksheets** | Interactive self-assessments, reflection exercises, and personal safety plans. | [View Section](./03_Worksheets/03_Readme.md) |
-| **04: Local Directory** | Emergency helpline contacts, community referral options, and crisis intervention resources. | [View Section](./04_Local_directory/04_Readme.md) |
+| **02: Guides** | Step-by-step practical guides, coping toolkits, and supportive action steps. | [View Section](./02_Guides/01_Readme.md) |
+| **03: Worksheets** | Interactive self-assessments, reflection exercises, and personal safety plans. | [View Section](./03_Worksheets/01_Readme.md) |
+| **04: Local Directory** | Emergency helpline contacts, community referral options, and crisis intervention resources. | [View Section](./04_Local_directory/01_Readme.md) |
 | **05: Feedback** | Share your feedback, suggest new resources, or contribute to improving this hub. | [View Section](./05_Feedback) |
 
 ---
@@ -40,4 +40,4 @@ Explore the core sections of the hub using the directory links below:
 
 ---
 
-> **🚨 Emergency Notice:** If you or someone you know is experiencing a mental health crisis or requires immediate medical support, please navigate straight to the [04: Local Directory](./04_Local_directory/04_Readme.md) for helpline numbers and emergency contact options.
+> **🚨 Emergency Notice:** If you or someone you know is experiencing a mental health crisis or requires immediate medical support, please navigate straight to the [04: Local Directory](./04_Local_directory/01_Readme.md) for helpline numbers and emergency contact options.
