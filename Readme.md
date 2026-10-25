@@ -1,4 +1,4 @@
- # 🌱 Mental Health Resource Hub
+# 🌱 Mental Health Resource Hub
 ### *Breaking the Silence: Student Emotional Well-Being Initiative*
 
 Welcome to the **Mental Health Resource Hub**—an open-access, student-centered digital initiative aligned with **Sustainable Development Goal 3 (Good Health and Well-Being)**. This repository provides structured, accessible, and evidence-informed emotional well-being tools, self-care guides, reflection worksheets, and local crisis support directories.
@@ -18,7 +18,7 @@ Explore the core sections of the hub using the directory links below:
 
 | Section | Description | Quick Link |
 | :--- | :--- | :--- |
-| **01: Mental health basics** | Core educational concepts, self-care fundamentals, and psychological well-being overviews. | [View Section](./01_Mental_health_basics/Readme.md) |
+| **01: Mental health basics** | Core educational concepts, self-care fundamentals, and psychological well-being overviews. | [View Section](./01_Mental_health_basics/README.md) |
 | **02: Guides** | Step-by-step practical guides, coping toolkits, and supportive action steps. | [View Section](./02_Guides/Readme.md) |
 | **03: Worksheets** | Interactive self-assessments, reflection exercises, and personal safety plans. | [View Section](./03_Worksheets/Readme.md) |
 | **04: Local Directory** | Emergency helpline contacts, community referral options, and crisis intervention resources. | [View Section](./04_Local_directory/Readme.md) |
@@ -34,8 +34,8 @@ Explore the core sections of the hub using the directory links below:
 
 ## 💡 How to Use This Hub
 
-1. **Browse by Section:** Click on any of the **View Section** links in the table above to open that folder's landing page directly.
-2. **Explore Resources:** Each section landing page contains direct links to specific `.md` documents, worksheets, and guides.
+1. **Browse by Section:** Click on any of the **View Section** links in the table above to open that folder's page directly.
+2. **Explore Resources:** Each section page contains direct links to specific `.md` documents, worksheets, and guides.
 3. **Interactive Tools:** Access supplementary Canva reflection templates and digital Google Forms reflection worksheets linked within individual modules.
 
 ---
