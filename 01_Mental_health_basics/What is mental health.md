@@ -7,7 +7,6 @@ title: What is Mental Health
 
 Mental health encompasses our emotional, psychological, and social well-being. It influences how we think, feel, act, and handle life's daily stresses, relationships, and decision-making. 
 
-Just like physical health, **everyone has mental health**, and it exists on a continuous spectrum that changes throughout our lives.
 
 ---
 
