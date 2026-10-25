@@ -1,49 +1,35 @@
-# 💚 Breaking the Silence: Mental Health Resource Hub
+# 🌿 Breaking the Silence: Student Mental Health Resource Hub
 
-> **"Breaking the Silence"** is an open-access digital resource repository dedicated to supporting student emotional well-being and mental health awareness, aligned with **Sustainable Development Goal 3 (Good Health and Well-Being)**.
-
----
-
-## 🚨 Quick Access & Immediate Support
-
-* 📞 **[Emergency Hotlines & Local Directory](./04_Local%20directory)** — Access the campus emergency triage line (`0723 241 952`), 24/7 toll-free national hotlines, and crisis support networks.
-* 📝 **[Anonymous Student Feedback Form](https://forms.gle/QDrjcfUcUCWEiqNm9)** — Share suggestions, evaluate resources, or request new mental health topics.
+> **An open-access, student-centered emotional well-being initiative designed to provide accessible mental health guidance, practical self-reflection toolkits, and clear crisis support pathways.**
 
 ---
 
-## 🗂️ Repository Directory & Folder Navigation
+## 🏛️ Project Governance & Academic Alignment
 
-Explore the organized resources below by clicking directly on any folder link:
-
-| Folder | Description | Quick Access |
-| :--- | :--- | :---: |
-| **[📁 01_Mental health basics](./01_Mental%20health%20basics)** | Foundational guides on mental health concepts, self-care, and wellness terminology. | [Open Folder](./01_Mental%20health%20basics) |
-| **[📁 02_Guides](./02_Guides)** | In-depth coping strategies, academic stress management guides, and peer support frameworks. | [Open Folder](./02_Guides) |
-| **[📁 03_Worksheets](./03_Worksheets)** | Self-awareness questionnaires, burnout assessments, daily check-ins, and crisis safety plans. | [Open Folder](./03_Worksheets) |
-| **[📁 04_Local directory](./04_Local%20directory)** | Emergency contact numbers, university medical triage, and 24/7 crisis hotlines across Kenya. | [Open Folder](./04_Local%20directory) |
-| **[📁 05_Feedback](./05_Feedback)** | Interactive feedback tools and community evaluation links to help us expand and improve. | [Open Folder](./05_Feedback) |
+* **Lead Developer:** Wambui Juliet Muthoni (Adm: H102/4395G/25)
+* **Institution:** School of Health Sciences, Karatina University
+* **Academic Mentor:** Dr. Stephen Muriu
+* **Global Framework:** Aligned with **Sustainable Development Goal 3 (Good Health and Well-Being)**
 
 ---
 
-## 📌 Initiative Core Features
+## 📂 Repository Navigation
 
-* **Peer-Centered & Self-Paced:** Accessible Markdown toolkits engineered for individual self-reflection and group workshop sessions.
-* **Triage & Crisis Preparedness:** Step-by-step crisis safety planning and immediate access to emergency numbers.
-* **Continuous Student Feedback:** Integrated interactive Google Forms ensuring resources stay relevant to student needs.
+Below is the directory of available resources. Click any link to open the corresponding guide, worksheet, or directory file directly:
 
----
-
-## 🤝 Community & Mentorship
-
-This initiative is developed under the academic mentorship of **Dr. Stephen Muriu** at Karatina University.
-
-### How to Engage
-1. **Navigate the folders** above to access or download educational materials and self-help tools.
-2. **Share resources** with peers and campus community members.
-3. Submit suggestions via our **[Google Feedback Form](https://forms.gle/QDrjcfUcUCWEiqNm9)**.
+| Folder / Category | Description | Direct Access Link |
+| :--- | :--- | :--- |
+| **📁 01_Mental_Health_Basics** | Foundational mental health concepts and emotional awareness. | [Open Basics Guide](./01_Mental_Health_Basics/Basics.md) |
+| **📁 02_Guides** | Actionable coping strategies and peer support methods. | [Open Coping Guide](./02_Guides/Basics.md) |
+| **📁 03_Worksheets** | Self-awareness questionnaires, burnout assessments, and safety plans. | [Open Worksheets](./03_Worksheets/Check%20in.md) |
+| **📁 04_Local_Directory** | Immediate campus emergency triage contacts (`0723 241 952`) and 24/7 national hotlines. | [Open Emergency Directory](./04_Local_Directory/Emergency_Hotlines.md) |
+| **📁 05_Feedback** | Anonymous evaluation form to share feedback and request new topics. | [Open Feedback Form](https://forms.gle/QDrjcfUcUCWEiqNm9) |
 
 ---
 
-## 📄 License & Attribution
+## ℹ️ About This Project
 
-This repository is maintained for educational and community support purposes under the **MIT License**. Feel free to use, share, and adapt these resources to promote emotional well-being in your community.
+For more details on the project's mission, objectives, and licensing, please check the [ABOUT.md](./ABOUT.md) file at the root level of this repository.
+
+---
+> 🤝 *"Mental health is a journey we navigate together. Don't suffer in silence—reach out, reflect, and support one another."*
