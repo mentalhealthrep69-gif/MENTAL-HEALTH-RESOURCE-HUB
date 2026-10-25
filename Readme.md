@@ -1,4 +1,4 @@
- 🌿 Breaking the Silence: Student Mental Health Resource Hub
+# 🌿 Breaking the Silence: Student Mental Health Resource Hub
 
 > **An open-access, student-centered emotional well-being initiative designed to provide accessible mental health guidance, practical self-reflection toolkits, and clear crisis support pathways.**
 
@@ -15,14 +15,14 @@
 
 ## 📂 Repository Navigation
 
-Below is the directory of available resources. Click any link to open the corresponding guide, worksheet, or directory file directly:
+Below is the directory of available resources. Click any link to open the resource directly:
 
-| Folder / Category | Description | Direct Access Link |
+| Folder / Category | Description | Quick Access Link |
 | :--- | :--- | :--- |
-| **📁 01_Mental_Health_Basics** | Foundational mental health concepts and emotional awareness. | [Open Basics Guide](./01_Mental_Health_Basics/Basics.md) |
-| **📁 02_Guides** | Actionable coping strategies and peer support methods. | [Open Coping Guide](./02_Guides/Basics.md) |
-| **📁 03_Worksheets** | Self-awareness questionnaires, burnout assessments, and safety plans. | [Open Worksheets](./03_Worksheets/Check%20in.md) |
-| **📁 04_Local_Directory** | Immediate campus emergency triage contacts (`0723 241 952`) and 24/7 national hotlines. | [Open Emergency Directory](./04_Local_Directory/Emergency_Hotlines.md) |
+| **📁 01_Mental_health_basics** | Foundational mental health concepts, stress vs. anxiety, and emotional wellbeing. | [Open Intro Guide](./01_Mental_health_basics/Emotional%20wellbeing.md) |
+| **📁 02_Guides** | Actionable coping strategies, peer support methods, and study-life balance. | [Open Guides](./02_Guides) |
+| **📁 03_Worksheets** | Self-awareness questionnaires, burnout assessments, and safety plans. | [Open Burnout Assessment](./03_Worksheets/Academic%20burnout%20assessment.md) |
+| **📁 04_Local_directory** | Immediate campus emergency triage contacts (`0723 241 952`) and 24/7 national hotlines. | [Open Emergency Directory](./04_Local_directory) |
 | **📁 05_Feedback** | Anonymous evaluation form to share feedback and request new topics. | [Open Feedback Form](https://forms.gle/QDrjcfUcUCWEiqNm9) |
 
 ---
