@@ -1,4 +1,4 @@
-# 🛡️ Personal Crisis & Safety Plan Worksheet# 🛡️ Personal Crisis & Safety Plan Worksheet
+# 🛡️ Personal Crisis & Safety Plan Worksheet#
 
 > **Important:** Fill out this safety plan when you are feeling calm and grounded. Having a pre-planned strategy helps you navigate moments of intense distress, anxiety, or emotional crisis.
 
