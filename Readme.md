@@ -1,4 +1,4 @@
-# 🌿 Breaking the Silence: Student Mental Health Resource Hub
+ 🌿 Breaking the Silence: Student Mental Health Resource Hub
 
 > **An open-access, student-centered emotional well-being initiative designed to provide accessible mental health guidance, practical self-reflection toolkits, and clear crisis support pathways.**
 
