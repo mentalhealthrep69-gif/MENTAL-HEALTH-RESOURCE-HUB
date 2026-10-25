@@ -1,4 +1,4 @@
-# 🌿 Breaking the Silence: Student Mental Health Resource Hub
+ 🌿 Breaking the Silence: Student Mental Health Resource Hub
 
 > **An open-access, student-centered emotional well-being initiative designed to provide accessible mental health guidance, practical self-reflection toolkits, and clear crisis support pathways.**
 
@@ -16,7 +16,7 @@
 ## 📂 Repository Navigation
 
 Below is the directory of available resources. Click any link to open the resource directly:
-
+#
 | Folder / Category | Description | Quick Access Link |
 | :--- | :--- | :--- |
 | **📁 01_Mental_health_basics** | Foundational mental health concepts, stress vs. anxiety, and emotional wellbeing. | [Open Intro Guide](./01_Mental_health_basics/Emotional%20wellbeing.md) |
