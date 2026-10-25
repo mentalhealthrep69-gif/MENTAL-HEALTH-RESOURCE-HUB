@@ -23,6 +23,5 @@ Click on any guide below to read the full formatted page:
 
 ## 🔗 Repository Navigation
 
-* 🏠 **[Return to Repository Homepage](../README.md)**
 * 📁 **[Proceed to Section 02: Guides](../02_Guides/)**
 *
