@@ -29,7 +29,7 @@ Below is the directory of available resources. Click any link to open the resour
 
 ## ℹ️ About This Project
 
-For more details on the project's mission, objectives, and licensing, please check the [ABOUT.md](./ABOUT.md) file at the root level of this repository.
+For more details on the project's mission, objectives, and licensing, please check the [About.md](./About.md) file at the root level of this repository.
 
 ---
 > 🤝 *"Mental health is a journey we navigate together. Don't suffer in silence—reach out, reflect, and support one another."*
