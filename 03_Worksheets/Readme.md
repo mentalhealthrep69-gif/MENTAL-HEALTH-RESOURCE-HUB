@@ -19,6 +19,6 @@ Click on any worksheet below to read the full formatted page:
 
 ## 🔗 Repository Navigation
 
-* 📁 **[Previous Section: 02 Guides](../02_Guides/)**
-* 📁 **[Next Section: 04 Local Directory](../04_Local_directory/)**
+* 📁 **[Previous Section: 02_Guides](../02_Guides/)**
+* 📁 **[Next Section: 04_Local_Directory](../04_Local_directory/)**
 *
