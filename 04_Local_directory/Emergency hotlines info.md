@@ -1,3 +1,8 @@
+---
+layout: default
+title: Mental Health & Emergency Support Directory
+---
+
 # 🚨 Mental Health & Emergency Support Directory
 
 > **If you or someone you know is in immediate physical danger or experiencing a life-threatening mental health crisis, please reach out using the contacts below immediately.**
@@ -53,4 +58,12 @@ Free, confidential, and immediate support available across Kenya:
 1. **Save Local Numbers:** Add `0723 241 952` and `1190` to your mobile contacts for quick access during emergencies.
 2. **Share Responsibly:** Distribute this file or link within peer groups, student communities, and workshop presentations.
 3. **Seek Early Support:** You do not need to be in an extreme crisis to call—these services are there to listen and support you early on.
-4.
+4. **Accompany a Friend:** If a peer is hesitant to make a call alone, offer to sit with them or place the call together.
+
+---
+
+> 🛑 **Disclaimer:** This directory provides contact details for independent emergency and counseling services. For immediate physical safety threats on campus, contact campus security or local authorities.
+
+---
+
+[← Back to Main Repository](../README.md)
