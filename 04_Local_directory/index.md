@@ -15,7 +15,7 @@ Click below to view the emergency hotline information:
 
 | Resource Title | Direct Link |
 | :--- | :--- |
-| **Emergency Hotline Information** | [Read Resource](./Emergency%20hotlines%20info.md) |
+| **Emergency Hotline Information** | [Read Resource](./emergency-hotlines) |
 
 ---
 
