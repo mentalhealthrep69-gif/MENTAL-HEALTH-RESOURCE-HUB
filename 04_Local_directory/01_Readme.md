@@ -10,12 +10,8 @@ Click below to view the emergency hotline information:
 
 | Resource Title | Direct Link |
 | :--- | :--- |
-| **Emergency Hotline Information** | [Read Resource](./Emergency%20hotline%20info.md) |
+| **Emergency Hotline Information** | [Read Resource](./Emergency%20hotline%20info) |
 
----
 
-## 🔗 Repository Navigation
 
-* 📁 **[Previous Section: 03 Worksheets](../03_Worksheets/)**
-* 📁 **[Next Section: 05 Feedback](../05_Feedback/)**
-*
+
