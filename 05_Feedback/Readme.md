@@ -13,7 +13,7 @@ Your voice matters to us! By providing feedback, you help us improve our resourc
 
 ## 📝 Fill Out the Feedback Form
 
-Click the link or button below to submit your anonymous feedback directly through our Google Form:
+Click the link below to submit your anonymous feedback directly through our Google Form:
 
 👉 **[Submit Your Feedback Here](https://forms.gle/QDrjcfUcUCWEiqNm9)**
 
@@ -31,6 +31,7 @@ Click the link or button below to submit your anonymous feedback directly throug
 If you are currently experiencing a mental health crisis or need urgent support:
 * **Campus Medical & Emergency Line:** Call or SMS `0723 241 952`
 * **National Mental Health Helpline (Toll-Free 24/7):** Call `1190` or `1199`
+* Check our **[Emergency Hotlines Directory](../Emergency%20hotlines%20info)** for more specialized contacts.
 
 ---
 
