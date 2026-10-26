@@ -1,6 +1,11 @@
+---
+layout: default
+title: Self-Reflection & Mental Health Check-In
+---
+
 # 🧠 Self-Reflection & Mental Health Check-In
 
-> 🔗 **Interactive Online Form:** 
+> 🔗 **Interactive Online Form:**  
 > To fill out and submit this worksheet digitally, [**Click Here to Open the Online Form**](https://forms.gle/8JjuDoU8iGqPgpqaA).
 >
 > Alternatively, you can copy this page or use the worksheet questions below for self-guided journal reflection.
@@ -32,9 +37,9 @@
 - [ ] Other: ______________________
 
 ### If you had to describe your current emotional state in three words, what would they be?
-1. 
-2. 
-3. 
+1. ______________________
+2. ______________________
+3. ______________________
 
 ### What has been taking up most of your mental or emotional energy lately?
 > 
@@ -160,10 +165,14 @@
 - [ ] I'm not sure
 
 ### Action Steps
-* **One small thing I can do for myself today:** 
-* **One thing I can control right now:** 
-* **One thing I need to let go of (outside my control):** 
+* **One small thing I can do for myself today:** ______________________
+* **One thing I can control right now:** ______________________
+* **One thing I need to let go of (outside my control):** ______________________
 
 ---
 
 > 📝 **Ready to submit your responses?** [Click here to fill out the form directly online](https://forms.gle/8JjuDoU8iGqPgpqaA).
+
+---
+
+[← Back to Worksheets](./01_Readme.md)

@@ -1,4 +1,9 @@
-# 📋 Mental Health & Self-Reflection Worksheets
+---
+layout: default
+title: Mental Health & Self-Reflection Worksheets
+---
+
+# 📝 Mental Health & Self-Reflection Worksheets
 
 Welcome to the interactive worksheets section. You can use the link below to access our self-guided check-in form.
 
@@ -7,7 +12,11 @@ Welcome to the interactive worksheets section. You can use the link below to acc
 ---
 
 ### Key Information
+
 * **100% Anonymous:** No email addresses or personal identifying data are recorded.
 * **Self-Paced:** Use this worksheet whenever you need a structured moment to pause, track stress, or process your thoughts.
 * **Resources Included:** Contact details for emergency helplines provided.
 
+---
+
+[← Back to Worksheets](./01_Readme.md)

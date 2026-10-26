@@ -1,4 +1,9 @@
-# 🛡️ Personal Crisis & Safety Plan Worksheet#
+---
+layout: default
+title: Personal Crisis & Safety Plan Worksheet
+---
+
+# 🛡️ Personal Crisis & Safety Plan Worksheet
 
 > **Important:** Fill out this safety plan when you are feeling calm and grounded. Having a pre-planned strategy helps you navigate moments of intense distress, anxiety, or emotional crisis.
 
@@ -66,6 +71,6 @@ If your distress continues, worsens, or you feel unable to keep yourself safe, r
 
 > 🛑 **Disclaimer:** This worksheet is a personal safety tool and self-reflection resource. It does not replace professional mental health care. If you are in immediate physical danger or experiencing a life-threatening crisis, please contact campus health services at `0723 241 952` or call `1190` / `1199` immediately.
 
-> **Important:** Fill out this safety plan when you are feeling calm and grounded. Having a pre-planned strategy helps you navigate moments of intense distress, anxiety, or emotional crisis.
-
 ---
+
+[← Back to Worksheets](./01_Readme.md)
