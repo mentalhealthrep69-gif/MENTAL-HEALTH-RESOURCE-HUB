@@ -10,10 +10,10 @@ Click on any worksheet below to read the full formatted page:
 
 | Worksheet Title | Direct Link |
 | :--- | :--- |
-| **Academic Burnout Assessment** | [Read Worksheet](./Academic%20burnout%20assessment.md) |
-| **Check In** | [Read Worksheet](./Check%20in.md) |
-| **Personal Crisis & Safety** | [Read Worksheet](./Personal%20crisis%26%20safety.md) |
-| **Self Awareness Questionnaire** | [Read Worksheet](./Self%20awareness%20questionnaire.md) |
+| **Academic Burnout Assessment** | [Read Worksheet](./Academic%20burnout%20assessment) |
+| **Check In** | [Read Worksheet](./Check%20in) |
+| **Personal Crisis & Safety** | [Read Worksheet](./Personal%20crisis%26%20safety) |
+| **Self Awareness Questionnaire** | [Read Worksheet](./Self%20awareness%20questionnaire) |
 
 ---
 
