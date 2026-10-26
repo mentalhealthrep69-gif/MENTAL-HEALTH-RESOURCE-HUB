@@ -10,10 +10,10 @@ Click on any guide below to read the full formatted page:
 
 | Guide Title | Direct Link |
 | :--- | :--- |
-| **Basics** | [Read Guide](./Basics.md) |
-| **Quick Guides** | [Read Guide](./Quick%20guides.md) |
-| **Recognizing Someone Needs Help** | [Read Guide](./Recognizing%20someone%20needs%20help.md) |
-| **Self-Help & Well-Being** | [Read Guide](./Self-help%20%26%20well-being.md) |
+| **Basics** | [Read Guide](./Basics) |
+| **Quick Guides** | [Read Guide](./Quick%20guides) |
+| **Recognizing Someone Needs Help** | [Read Guide](./Recognizing%20someone%20needs%20help) |
+| **Self-Help & Well-Being** | [Read Guide](./Self-help%20%26%20well-being) |
 
 ---
 
