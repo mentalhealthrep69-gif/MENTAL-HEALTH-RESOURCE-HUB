@@ -31,7 +31,6 @@ Click the link below to submit your anonymous feedback directly through our Goog
 If you are currently experiencing a mental health crisis or need urgent support:
 * **Campus Medical & Emergency Line:** Call or SMS `0723 241 952`
 * **National Mental Health Helpline (Toll-Free 24/7):** Call `1190` or `1199`
-* Check our **[Emergency Hotlines Directory](../Emergency%20hotlines%20info)** for more specialized contacts.
 
 ---
 
