@@ -1,15 +1,21 @@
+---
+layout: default
+title: Recognizing When Someone Needs Help
+---
+
 # 🚨 Recognizing When Someone Needs Help
-> **Project:** Breaking the Silence | promoting student mental health and psychological well-being.  
+
+> **Project:** Breaking the Silence | Promoting student mental health and psychological well-being.  
 > **Goal:** Learn how to spot emotional distress, listen with care, and connect a friend to professional support safely.
 
 ---
 
 ## 📑 Index
-1. [1. Warning Signs of Emotional Distress](#1-warning-signs-of-emotional-distress)
-2. [2. Signs of Suicidal Thoughts or Behavior](#2-signs-of-suicidal-thoughts-or-behavior)
-3. [3. How to Help a Friend (4-Step Action Plan)](#3-how-to-help-a-friend-4-step-action-plan)
-4. [4. When Professional Help Is Needed](#4-when-professional-help-is-needed)
-5. [5. What NOT to Say (And What to Say Instead)](#5-what-not-to-say-and-what-to-say-instead)
+1. [Warning Signs of Emotional Distress](#1-warning-signs-of-emotional-distress)
+2. [Signs of Suicidal Thoughts or Behavior](#2-signs-of-suicidal-thoughts-or-behavior)
+3. [How to Help a Friend (4-Step Action Plan)](#3-how-to-help-a-friend-4-step-action-plan)
+4. [When Professional Help Is Needed](#4-when-professional-help-is-needed)
+5. [What NOT to Say (And What to Say Instead)](#5-what-not-to-say-and-what-to-say-instead)
 
 ---
 
@@ -25,7 +31,9 @@ Look out for big, lasting changes in your friend's behavior rather than trying t
 5. **Watch for Harmful Coping:** They start using alcohol, drugs, or risky behaviors to deal with stress.
 6. **Notice Unusual Actions:** They give away valuable possessions or say unusual goodbyes.
 
-> **Remember:** One sign alone does not mean a crisis. Look for major changes that last over time.
+---
+
+> **💡 Remember:** One sign alone does not mean a crisis. Look for major changes that last over time.
 
 ---
 
@@ -46,19 +54,19 @@ Treat these warning signs with serious, direct attention.
 
 Use this simple **NOTICE → ASK → LISTEN → CONNECT** plan when you are worried about someone.
 
-### Step 1: NOTICE
+### 🔍 Step 1: NOTICE
 * Speak up when you see behavior changes.  
 * **Say:** *"I've noticed you've been very quiet lately."*
 
-### Step 2: ASK
+### ❓ Step 2: ASK
 * Check in with them in a private, quiet place.  
 * **Say:** *"Are you okay? Do you want to talk about it?"*
 
-### Step 3: LISTEN
+### 👂 Step 3: LISTEN
 * Give them time to speak. Do not rush to fix their problems or judge them.  
 * **Say:** *"Thank you for telling me. That sounds really hard."*
 
-### Step 4: CONNECT
+### 🤝 Step 4: CONNECT
 * Encourage them to speak with a professional.  
 * **Say:** *"Would you like me to help you set up a meeting with a campus counselor?"*  
 * *If they are in immediate danger, stay with them and call for emergency help.*
@@ -75,7 +83,9 @@ Encourage your friend (or yourself) to see a counselor or doctor when:
 3. **Harmful habits appear:** They turn to self-harm, drinking, or drugs to survive the day.
 4. **Peer support isn't enough:** They continue to struggle even after friends try to help.
 
-> **Remember:** You do not have to wait for a crisis to ask for help. Getting counseling is a sign of self-care, not weakness.
+---
+
+> **🌱 Remember:** You do not have to wait for a crisis to ask for help. Getting counseling is a sign of self-care, not weakness.
 
 ---
 
@@ -94,3 +104,7 @@ Well-meaning words can accidentally make someone feel worse. Use these helpful a
 ---
 
 > 🌱 **Main Lesson:** You do not need to be a trained counselor. Your job as a friend is simple: **Notice**, **Listen**, **Show Care**, and **Connect** them to help.
+
+---
+
+[← Back to Quick Guides](./01_README.md)

@@ -1,18 +1,24 @@
-# 🌿 04: Self-Help & Well-being Guides
+---
+layout: default
+title: Self-Help & Well-being Guides
+---
+
+# 🌿 Self-Help & Well-being Guides
+
 > **Project:** Breaking the Silence | Student Well-being Initiative  
 > **Purpose:** Simple, step-by-step guides to help you manage stress, study better, and feel good every day.
 
 ---
 
 ## 📑 Index
-1. [01_Stress_Management_Guide](#01_stress_management_guide)
-2. [02_Coping_with_Academic_Pressure](#02_coping_with_academic_pressure)
-3. [03_Healthy_Sleep_Guide](#03_healthy_sleep_guide)
-4. [04_Dealing_with_Loneliness](#04_dealing_with_loneliness)
-5. [05_Managing_Exam_Anxiety](#05_managing_exam_anxiety)
-6. [06_Building_Healthy_Routines](#06_building_healthy_routines)
-7. [07_Grounding_and_Breathing_Techniques](#07_grounding_and_breathing_techniques)
-8. [08_Digital_and_Social_Media_Well-being](#08_digital_and_social_media_well-being)
+1. [Stress Management Guide](#01_stress_management_guide)
+2. [Coping with Academic Pressure](#02_coping_with_academic_pressure)
+3. [Healthy Sleep Guide](#03_healthy_sleep_guide)
+4. [Dealing with Loneliness](#04_dealing_with_loneliness)
+5. [Managing Exam Anxiety](#05_managing_exam_anxiety)
+6. [Building Healthy Routines](#06_building_healthy_routines)
+7. [Grounding and Breathing Techniques](#07_grounding_and_breathing_techniques)
+8. [Digital and Social Media Well-being](#08_digital_and_social_media_well-being)
 
 ---
 
@@ -27,7 +33,9 @@
 4. **Move Your Body:** Go for a short 10-minute walk or stretch to release physical tension.
 5. **Talk to Someone:** Share your feelings with a friend, mentor, or peer advocate instead of keeping them inside.
 
-> **Remember:** Stress is temporary. Taking short pauses keeps you strong.
+---
+
+> **🌱 Remember:** Stress is temporary. Taking short pauses keeps you strong.
 
 ---
 
@@ -42,7 +50,9 @@
 4. **Learn from Mistakes:** View bad grades as a chance to improve your study plan—not as a failure of who you are.
 5. **Ask for Help Early:** Talk to your teachers or classmates as soon as you get confused.
 
-> **Remember:** Your grades show how well a study plan worked, not your worth as a person.
+---
+
+> **🌱 Remember:** Your grades show how well a study plan worked, not your worth as a person.
 
 ---
 
@@ -57,7 +67,9 @@
 4. **Avoid Late Coffee:** Do not drink coffee, tea, or energy drinks in the late afternoon.
 5. **Relax Before Bed:** Read a light book, stretch, or listen to soft music to help your body feel sleepy.
 
-> **Remember:** Sleep helps your brain remember everything you studied during the day.
+---
+
+> **🌱 Remember:** Sleep helps your brain remember everything you studied during the day.
 
 ---
 
@@ -72,7 +84,9 @@
 4. **Join One Campus Activity:** Attend one meeting for a student club, sports team, or campus event.
 5. **Be Kind to Yourself:** Spend your alone time doing things you truly enjoy.
 
-> **Remember:** Small conversations build big connections over time.
+---
+
+> **🌱 Remember:** Small conversations build big connections over time.
 
 ---
 
@@ -87,7 +101,9 @@
 4. **Start Easy:** Answer the easiest questions first on your exam paper to build your confidence.
 5. **Rest After the Exam:** Do not spend hours arguing over answers with friends after the test is done.
 
-> **Remember:** Calm your body first, and your mind will follow.
+---
+
+> **🌱 Remember:** Calm your body first, and your mind will follow.
 
 ---
 
@@ -102,7 +118,9 @@
 4. **Track Your Progress:** Cross off completed habits on a paper calendar or notebook.
 5. **Get Back on Track:** If you miss a day, do not worry—just try your best to do it again the next day.
 
-> **Remember:** Small actions done every day work much better than big actions done once in a while.
+---
+
+> **🌱 Remember:** Small actions done every day work much better than big actions done once in a while.
 
 ---
 
@@ -122,7 +140,9 @@
 4. **Relax Your Muscles:** Squeeze your shoulders up for 5 seconds, then let them drop completely.
 5. **Feel the Floor:** Press your feet firmly onto the ground and notice how it supports you.
 
-> **Remember:** You cannot argue with a panicked mind. Calm your physical body first.
+---
+
+> **🌱 Remember:** You cannot argue with a panicked mind. Calm your physical body first.
 
 ---
 
@@ -137,4 +157,10 @@
 4. **Set a Time Limit:** Use a phone timer to limit social media scrolling to 20 or 30 minutes a day.
 5. **Take Real Rest Breaks:** When you feel tired, take a short walk or listen to music instead of scrolling on your phone.
 
-> **Remember:** Your time and attention are valuable. Choose carefully where you spend them online.
+---
+
+> **🌱 Remember:** Your time and attention are valuable. Choose carefully where you spend them online.
+
+---
+
+[← Back to Quick Guides](./01_README.md)

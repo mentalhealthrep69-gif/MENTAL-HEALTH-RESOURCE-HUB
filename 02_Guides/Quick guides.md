@@ -1,6 +1,12 @@
+---
+layout: default
+title: Quick Guides Index
+---
+
 # 📚 Quick Guides Index | Breaking the Silence
-> **Project:** Breaking the Silence | promoting student mental health and psychological well-being  
-> **Purpose:** quick-reference, actionable mental health resources designed for students navigating university life.
+
+> **Project:** Breaking the Silence | Promoting student mental health and psychological well-being  
+> **Purpose:** Quick-reference, actionable mental health resources designed for students navigating university life.
 
 ---
 
@@ -17,14 +23,14 @@
 ## 1. I'm Overwhelmed — What Do I Do?
 
 ### 🟢 WHAT MIGHT BE HAPPENING
-Feeling overwhelmed can happen when the demands of university life (assignments, finances, exams, personal challenges) feel more than you can manage to bear.
+Feeling overwhelmed can happen when the demands of university life (assignments, finances, exams, personal challenges) feel like more than you can manage or bear.
 
 ### 🟡 WHAT YOU CAN DO RIGHT NOW
 * **Stop Everything for 5 Minutes:** Pause all study materials, close laptop tabs, and step away from your desk.
 * **Do a Brain Dump:** Get a blank piece of paper and write down *every single thing* stressing you out. Getting it out of your head reduces mental load.
-* **Pick ONE small Task:** Select the absolute smallest task on your list (e.g., reading one paragraph, sending one email) and do only that.
+* **Pick ONE Small Task:** Select the absolute smallest task on your list (e.g., reading one paragraph, sending one email) and do only that.
 * **Change Your Physical Environment:** Step outside, stretch, or drink a glass of cold water to ground your nervous system.
-* **Set a time to Stop :** Decide when you will stop working today so your brain knows rest is coming.
+* **Set a Time to Stop:** Decide when you will stop working today so your brain knows rest is coming.
 
 ### 🔵 WHEN TO TALK TO SOMEONE
 * You have been feeling constantly overwhelmed for more than 2 weeks.
@@ -48,13 +54,13 @@ Feeling overwhelmed can happen when the demands of university life (assignments,
 ## 2. I'm Feeling Anxious — What Can I Do Right Now?
 
 ### 🟢 WHAT MIGHT BE HAPPENING
-Anxiety is your body's natural "fight-or-flight" stress system . It can be activated by mental pressure such as exams, social stress, or uncertainty, even when you are not in physical danger.
+Anxiety is your body's natural "fight-or-flight" stress system. It can be activated by mental pressure such as exams, social stress, or uncertainty, even when you are not in physical danger.
 
 ### 🟡 WHAT YOU CAN DO RIGHT NOW
 * **Practice the 5-4-3-2-1 Grounding Technique:** Name 5 things you can see, 4 you can feel, 3 you can hear, 2 you can smell, and 1 you can taste.
 * **Do 3 Physiological Sighs:** Take two quick inhales through your nose, then one long, slow exhale through your mouth.
-* **Use a cool sensation:** Splash cold water on your face or hold something cool to help bring your attention back to present.
-* **Relax Your Body:** Consciously drop your shoulders, relax your jaw, and relax your toes.
+* **Use a Cool Sensation:** Splash cold water on your face or hold something cool to help bring your attention back to the present.
+* **Relax Your Body:** Consciously drop your shoulders, relax your jaw, and uncurl your toes.
 * **Limit Caffeine:** Avoid coffee, tea, or energy drinks until you calm down.
 
 ### 🔵 WHEN TO TALK TO SOMEONE
@@ -79,10 +85,10 @@ Anxiety is your body's natural "fight-or-flight" stress system . It can be activ
 ## 3. I'm Feeling Lonely
 
 ### 🟢 WHAT MIGHT BE HAPPENING
-Starting or adjusting to university can change your usual social connections, making feelings of loneliness common among students. Also feeling lonely doesn't mean you are unlovable or alone in this experience.
+Starting or adjusting to university can change your usual social connections, making feelings of loneliness common among students. 
 
 ### 🟡 WHAT YOU CAN DO RIGHT NOW
-* **Reach Out to One Person:** Send a simple text to a friend or family member ("Thinking of you, how are you?").
+* **Reach Out to One Person:** Send a simple text to a friend or family member (*"Thinking of you, how are you?"*).
 * **Change Your Location:** Move your study session to the library, a campus cafeteria, or a shared lounge area.
 * **Perform a Small Act of Kindness:** Hold a door, compliment a peer, or share study notes—small connections boost belonging.
 * **Limit Social Media Comparisons:** Remind yourself that highlight reels on social media do not reflect real life.
@@ -94,7 +100,7 @@ Starting or adjusting to university can change your usual social connections, ma
 * Loneliness has turned into persistent sadness or numbness.
 
 ### 🔴 WHEN IT'S AN EMERGENCY
-* You feel completely abandoned and are experiencing severe hopeless thoughts.
+* You feel completely abandoned and are experiencing severe, hopeless thoughts.
 * You have thoughts of self-harm due to intense loneliness.
 
 ### 🟣 WHERE TO GET HELP
@@ -110,12 +116,12 @@ Starting or adjusting to university can change your usual social connections, ma
 ## 4. I'm Struggling Academically
 
 ### 🟢 WHAT MIGHT BE HAPPENING
-Academic struggles do not necessarily mean you lack, burnout, difficulty concentrating, ineffective study strategies, or personal life pressures can all affect academic performance.
+Academic struggles do not mean you lack capability. Burnout, difficulty concentrating, ineffective study strategies, or personal life pressures can all affect academic performance.
 
 ### 🟡 WHAT YOU CAN DO RIGHT NOW
-* **Review your courses:** List assignments, deadlines, CATS and current performance to assess where you actually stand.
-* **Talk to Your Course Lecturer :** Visit them during office hours or send an email explaining your difficulty early on.
-* **Take mandatory breaks:** Work for 25 focused minutes, then take a mandatory 5-minute break.
+* **Review Your Courses:** List assignments, deadlines, CATs, and current performance to assess where you actually stand.
+* **Talk to Your Course Lecturer:** Visit them during office hours or send an email explaining your difficulty early on.
+* **Take Mandatory Breaks:** Work for 25 focused minutes, then take a mandatory 5-minute break.
 * **Find a Study Partner:** Pair up with a classmate for mutual accountability and resource sharing.
 * **Aim for Progress, Not Perfection:** Completing an assignment imperfectly is far better than not submitting it at all.
 
@@ -133,7 +139,7 @@ Academic struggles do not necessarily mean you lack, burnout, difficulty concent
 * **Peer Support:** Student Mentorship & Peer Tutoring Programs
 
 ### 💬 REMEMBER
-> Your grades reflect your current academic performance,they do not define your intelligence or value as a person.
+> Your grades reflect your current academic performance; they do not define your intelligence or value as a person.
 
 ---
 
@@ -150,12 +156,12 @@ Friends are often the first to spot when someone is struggling.
 * **Encourage Support:** Gently ask, *"Have you considered speaking with campus counseling or a trusted lecturer about this?"*
 
 ### 🔵 WHEN TO TALK TO SOMEONE
-* Your friend pulls away completely, stopped responding to messages, or neglects basic personal care.
+* Your friend pulls away completely, stops responding to messages, or neglects basic personal care.
 * Supporting them is beginning to severely impact your own emotional well-being.
-* They express feeling hopeless or express  thoughts about giving up.
+* They express feeling hopeless or express thoughts about giving up.
 
 ### 🔴 WHEN IT'S AN EMERGENCY
-* Your friend explicitly states they are considering suicide, hurt themselves, or end their life.
+* Your friend explicitly states they are considering suicide, hurting themselves, or ending their life.
 * **Do not leave them alone.** Contact campus security, the counseling department, or emergency services immediately.
 
 ### 🟣 WHERE TO GET HELP
@@ -176,7 +182,7 @@ Seeking professional mental health support is a healthy step, just like seeking 
 ### 🟡 WHAT YOU CAN DO RIGHT NOW
 * **Write Down What You're Feeling:** Jot down your symptoms, emotional patterns, and sleep habits over the last few weeks to share during a consultation.
 * **Locate the Campus Counselling Office:** Find out where the guidance and counseling office is located on campus and check their operating hours.
-* **Schedule an Appointment:** Reach out via email, phone, or in-person to request an intake session.
+* **Schedule an Appointment:** Reach out via email, phone, or in person to request an intake session.
 * **Share with a Trusted Peer:** Tell a close friend or mentor that you are seeking support so they can encourage you.
 * **Prepare 2–3 Questions:** Write down what you hope to get out of support (e.g., *"How can I manage exam panic?"* or *"How do I deal with low mood?"*).
 
@@ -196,3 +202,7 @@ Seeking professional mental health support is a healthy step, just like seeking 
 
 ### 💬 REMEMBER
 > Asking for help is not a sign that you have failed; it is an act of courage and self-respect.
+
+---
+
+[← Back to Main Repository](../../README.md)
