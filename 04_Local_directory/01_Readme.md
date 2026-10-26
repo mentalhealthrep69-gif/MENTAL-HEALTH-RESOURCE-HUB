@@ -1,4 +1,4 @@
- ---
+---
 layout: default
 title: Local Directory & Crisis Contacts
 ---
@@ -15,7 +15,7 @@ Click below to view the emergency hotline information:
 
 | Resource Title | Direct Link |
 | :--- | :--- |
-| **Emergency Hotline Information** | [Read Resource](../Emergency%20contacts%20and%20support%20directory) |
+| **Emergency Hotline Information** | [Read Resource](../Emergency%20hotlines%20info) |
 
 ---
 
@@ -24,6 +24,3 @@ Click below to view the emergency hotline information:
 ---
 
 [← Back to Main Repository](../README.md)
-
-
-
