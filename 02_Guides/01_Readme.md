@@ -17,8 +17,4 @@ Click on any guide below to read the full formatted page:
 
 ---
 
-## 🔗 Repository Navigation
 
-* 📁 **[Previous Section: 01 Mental Health Basics](../01_Mental_health_basics/)**
-* 📁 **[Next Section: 03 Worksheets](../03_Worksheets/)**
-*
