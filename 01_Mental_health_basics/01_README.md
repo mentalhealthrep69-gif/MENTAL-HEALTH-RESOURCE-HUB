@@ -20,8 +20,3 @@ Click on any guide below to read the full formatted page:
 | **Stress vs. Anxiety** | [Read Guide](./Stress%20vs.%20anxiety) |
 
 ---
-
-## 🔗 Repository Navigation
-
-* 📁 **[Proceed to Section 02: Guides](../02_Guides/)**
-*
