@@ -3,7 +3,7 @@ name: Save Repository Traffic
 on:
   schedule:
     - cron: "0 0 * * 1"
-  workflow_dispatch: 
+  workflow_dispatch:
 
 jobs:
   build:
@@ -20,3 +20,10 @@ jobs:
           TRAFFIC_ACTION_TOKEN: ${{ secrets.TRAFFIC_ACTION_TOKEN }}
           REPOSITORY_NAME: "${{ github.repository }}"
           SAVE_FORMAT: "csv"
+
+      - name: Commit and push traffic data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          file_pattern: "*.csv"
+          commit_message: "Update repository traffic data"
+          skip_ci: true
