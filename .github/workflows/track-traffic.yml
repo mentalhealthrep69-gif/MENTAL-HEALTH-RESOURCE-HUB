@@ -1,0 +1,22 @@
+name: Save Repository Traffic
+
+on:
+  schedule:
+    - cron: "0 0 * * 1"
+  workflow_dispatch: 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Extract Traffic Data and Save to CSV
+        uses: sangonzal/repository-traffic-action@v.0.1.6
+        env:
+          TRAFFIC_ACTION_TOKEN: ${{ secrets.TRAFFIC_ACTION_TOKEN }}
+          REPOSITORY_NAME: "${{ github.repository }}"
+          SAVE_FORMAT: "csv"
