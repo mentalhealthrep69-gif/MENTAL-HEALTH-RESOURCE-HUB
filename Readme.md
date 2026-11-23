@@ -40,4 +40,4 @@ Explore the core sections of the hub using the directory links below:
 
 ---
 
-> **🚨 Emergency Notice:** If you or someone you know is experiencing a mental health crisis or requires immediate medical support, please navigate straight to the [04: Local Directory](./04_Local_directory/01_Readme.md) for helpline numbers and emergency contact options.
+> **🚨 Emergency Notice:** If you or someone you know is experiencing a mental health crisis or requires immediate medical support, please navigate straight to the [04: Local Directory](./04_Local_directory/index.md) for helpline numbers and emergency contact options.
