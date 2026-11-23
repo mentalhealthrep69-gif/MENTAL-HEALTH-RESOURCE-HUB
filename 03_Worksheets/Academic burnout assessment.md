@@ -66,4 +66,4 @@ If academic stress is significantly impacting your daily functioning, health, or
 
 ---
 
-[← Back to Guides](./03_Worksheets.)
+[← Back to Worksheets](./01_Readme.md)
