@@ -205,4 +205,4 @@ Seeking professional mental health support is a healthy step, just like seeking 
 
 ---
 
-[← Back to Main Repository](../../Readme.md)
+[← Back to Main Repository](../Readme.md)
